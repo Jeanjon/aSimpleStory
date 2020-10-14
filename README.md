@@ -1,1 +1,3 @@
 # aSimpleStory
+
+Azerty is better
